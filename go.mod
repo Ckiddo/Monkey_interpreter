@@ -1,3 +1,3 @@
-module mokey-interpreter
+module mokey
 
 go 1.24.4
